@@ -1,0 +1,2105 @@
+1
+account name : ad'dailami hasyim al gifari🌟
+tweet :
+@habibthink @humaira979 Pasti bilang  REZIM narkoba !!
+Sy  di jebak 
+Kriminalisasi
+Rezim panik
+Lihat cuitan para  kampret  pada  diam !?
+
+Stemmed words :
+@habibthink => habibthink
+@humaira979 => humaira979
+pasti => pasti
+bilang => bilang
+ => 
+rezim => rezim
+narkoba => narkoba
+!!
+sy => sy
+ => 
+di => di
+jebak => jebak
+
+kriminalisasi
+rezim => kriminalisasi rezim
+panik
+lihat => panik lihat
+cuitan => cuit
+para => para
+ => 
+kampret => kampret
+ => 
+pada => pada
+ => 
+diam => diam
+!? => 
+
+2
+account name : 1ND1RA
+tweet :
+RT @TheArieAir: NARKOBA kumpul disana
+ATHEIS juga disana
+LGBT disana
+TERORIS dan RADIKAL disana
+
+TIKUS KECOAK KAMPRET semua disana
+
+mau kal…
+
+Stemmed words :
+rt => rt
+@thearieair: => thearieair
+narkoba => narkoba
+kumpul => kumpul
+disana
+atheis => sana atheis
+juga => juga
+disana
+lgbt => sana lgbt
+disana
+teroris => sana teroris
+dan => dan
+radikal => radikal
+disana
+
+tikus => sana tikus
+kecoak => kecoak
+kampret => kampret
+semua => semua
+disana
+
+mau => sana mau
+kal… => kal
+
+3
+account name : Zamroji
+tweet :
+RT @MISSARAP: mas buaya dalam hati
+
+"gue diem aja deh anjing perasaan" https://t.co/CdXWOMAwry
+
+Stemmed words :
+rt => rt
+@missarap: => missarap
+mas => mas
+buaya => buaya
+dalam => dalam
+hati
+
+"gue => hati gue
+diem => diem
+aja => aja
+deh => deh
+anjing => anjing
+perasaan" => asa
+https://t.co/cdxwomawry => https t co cdxwomawry
+
+4
+account name : Machfud Ilahi
+tweet :
+@maspiyuuu @jokowi @rockygerung Sontoloyo emang yg gini mau dipertahanin para cebong #tepukjidat
+
+Stemmed words :
+@maspiyuuu => maspiyuuu
+@jokowi => jokowi
+@rockygerung => rockygerung
+sontoloyo => sontoloyo
+emang => emang
+yg => yg
+gini => gin
+mau => mau
+dipertahanin => dipertahanin
+para => para
+cebong => cebong
+#tepukjidat => tepukjidat
+
+5
+account name : Zaky Umar Bawazier
+tweet :
+RT @Masani_Masani: @PBB2019 Tetap dukung Prof Yusril. Tetaplah berjuang diantara kandang kawan dan lawan. Tetap lah Istiqomah menegakkan sy…
+
+Stemmed words :
+rt => rt
+@masani_masani: => masani masani
+@pbb2019 => pbb2019
+tetap => tetap
+dukung => dukung
+prof => prof
+yusril. => yusril
+tetaplah => tetap
+berjuang => juang
+diantara => antara
+kandang => kandang
+kawan => kawan
+dan => dan
+lawan. => lawan
+tetap => tetap
+lah => lah
+istiqomah => istiqomah
+menegakkan => tegak
+sy… => sy
+
+6
+account name : nisay
+tweet :
+@_NrlHarniza asal babi seringgit tapi anjing rm 0.20 je?????
+
+Stemmed words :
+@_nrlharniza => nrlharniza
+asal => asal
+babi => babi
+seringgit => ringgit
+tapi => tapi
+anjing => anjing
+rm => rm
+0.20 => 0 20
+je????? => je
+
+7
+account name : ᴀʀᴀ #CROWN
+tweet :
+ANJING ANJING KEREN BGT MVNYA BANGSAATTTT W PUSING
+
+Stemmed words :
+anjing => anjing
+anjing => anjing
+keren => keren
+bgt => bgt
+mvnya => mvnya
+bangsaatttt => bangsaatttt
+w => w
+pusing => pusing
+
+8
+account name : andri 07
+tweet :
+RT @laskar_minang: Kenapa Beliau ga membalas serangan Jae tt tanah HGU??
+
+Saksikan video ini...👇
+
+Cebong🐸 ga bakalan ngerti,  otaknya kan d…
+
+Stemmed words :
+rt => rt
+@laskar_minang: => laskar mang
+kenapa => kenapa
+beliau => beliau
+ga => ga
+membalas => balas
+serangan => serang
+jae => jae
+tt => tt
+tanah => tanah
+hgu??
+
+saksikan => hgu saksi
+video => video
+ini...👇
+
+cebong🐸 => ini cebong
+ga => ga
+bakalan => bakal
+ngerti, => ngerti
+ => 
+otaknya => otak
+kan => kan
+d… => d
+
+9
+account name : Fineena
+tweet :
+Eye Belle will protec the smol babi https://t.co/0KT6Qq98Rv
+
+Stemmed words :
+eye => eye
+belle => belle
+will => will
+protec => protec
+the => the
+smol => smol
+babi => babi
+https://t.co/0kt6qq98rv => https t co 0kt6qq98rv
+
+10
+account name : ❀
+tweet :
+babi susah la sial nak menapak mcmni je hari hari
+
+Stemmed words :
+babi => babi
+susah => susah
+la => la
+sial => sial
+nak => nak
+menapak => tapak
+mcmni => mcmni
+je => je
+hari => hari
+hari => hari
+
+11
+account name : ALi NURLAH
+tweet :
+RT @Parodi_Ngeri: Mantra mengundang cebong :
+
+" Bong bong gila bong
+Otak kosong batok bolong
+Malam mirip pocong
+Kalau siang mirip terong.…
+
+Stemmed words :
+rt => rt
+@parodi_ngeri: => parodi ngeri
+mantra => mantra
+mengundang => undang
+cebong => cebong
+:
+
+" => 
+bong => bong
+bong => bong
+gila => gila
+bong
+otak => bong otak
+kosong => kosong
+batok => batok
+bolong
+malam => bolong malam
+mirip => mirip
+pocong
+kalau => pocong kalau
+siang => siang
+mirip => mirip
+terong.… => terong
+
+12
+account name : Moch. Abdul Aziz
+tweet :
+RT @BungFy: @do_ra_dong Suruh cuti aj lah, biar Wapres yg pimpin toh msh Triumvirat (eksekutif/legislatif/yudikatif) tetap terpenuhi syarat…
+
+Stemmed words :
+rt => rt
+@bungfy: => bungfy
+@do_ra_dong => do ra dong
+suruh => suruh
+cuti => cuti
+aj => aj
+lah, => lah
+biar => biar
+wapres => wapres
+yg => yg
+pimpin => pimpin
+toh => toh
+msh => msh
+triumvirat => triumvirat
+(eksekutif/legislatif/yudikatif) => eksekutif legislatif yudikatif
+tetap => tetap
+terpenuhi => penuh
+syarat… => syarat
+
+13
+account name : DEK DIMAS
+tweet :
+RT @anandajojoo: Proses rabakal menghianati hasil kok, sopo sik usahane luih akeh yo tep neng duwur. Rumangsamu bos ki luih goblok seko bab…
+
+Stemmed words :
+rt => rt
+@anandajojoo: => anandajojoo
+proses => proses
+rabakal => rabakal
+menghianati => menghianati
+hasil => hasil
+kok, => kok
+sopo => sopo
+sik => sik
+usahane => usahane
+luih => luih
+akeh => akeh
+yo => yo
+tep => tep
+neng => neng
+duwur. => duwur
+rumangsamu => rumangsamu
+bos => bos
+ki => ki
+luih => luih
+goblok => goblok
+seko => seko
+bab… => bab
+
+14
+account name : KerjaDuaPeriode
+tweet :
+RT @Valetino_regee: Mampus biar tau rasa !!!
+Kena azabnya juga 
+Diam2 nyabu sekalian aja 
+Diam2 nyoli kampret...
+
+Dasar otak sejengkal para…
+
+Stemmed words :
+rt => rt
+@valetino_regee: => valetino regee
+mampus => mampus
+biar => biar
+tau => tau
+rasa => rasa
+!!!
+kena => kena
+azabnya => azab
+juga => juga
+
+diam2 => diam2
+nyabu => nyabu
+sekalian => sekali
+aja => aja
+
+diam2 => diam2
+nyoli => nyoli
+kampret...
+
+dasar => kampret dasar
+otak => otak
+sejengkal => jengkal
+para… => para
+
+15
+account name : sultana khan
+tweet :
+Babi la hahahahahaha https://t.co/JbbmDcKewo
+
+Stemmed words :
+babi => babi
+la => la
+hahahahahaha => hahahahahaha
+https://t.co/jbbmdckewo => https t co jbbmdckewo
+
+16
+account name : Rikaabeeeeeeekkk
+tweet :
+@BOT_MARAH Lo lebih goblok -_-
+
+Stemmed words :
+@bot_marah => bot marah
+lo => lo
+lebih => lebih
+goblok => goblok
+-_- => - -
+
+17
+account name : PaulDj Iman
+tweet :
+RT @Dzain666: @awemany TAI ...
+Itu di twit pertama, maksud dari "yg penting menang" apa?
+Niatnya mau nyebar HOAX, ketauan, ngeles
+Emang KAM…
+
+Stemmed words :
+rt => rt
+@dzain666: => dzain666
+@awemany => awemany
+tai => tai
+...
+itu => itu
+di => di
+twit => twit
+pertama, => pertama
+maksud => maksud
+dari => dari
+"yg => yg
+penting => penting
+menang" => menang
+apa?
+niatnya => apa niat
+mau => mau
+nyebar => nyebar
+hoax, => hoax
+ketauan, => tau
+ngeles
+emang => ngeles emang
+kam… => kam
+
+18
+account name : Ɇncel ❄
+tweet :
+TXT LUCU BGT ANJING
+
+Stemmed words :
+txt => txt
+lucu => lucu
+bgt => bgt
+anjing => anjing
+
+19
+account name : RIKI GUNDALA
+tweet :
+Nah ituuuu baru mao bilang, Woooooyyyy KAMPRET bangun udah sore kerja kerja diem bae dirumah ga ada orasi apah wkwk… https://t.co/39LTjfLzLl
+
+Stemmed words :
+nah => nah
+ituuuu => ituuuu
+baru => baru
+mao => mao
+bilang, => bilang
+woooooyyyy => woooooyyyy
+kampret => kampret
+bangun => bangun
+udah => udah
+sore => sore
+kerja => kerja
+kerja => kerja
+diem => diem
+bae => bae
+dirumah => rumah
+ga => ga
+ada => ada
+orasi => orasi
+apah => apah
+wkwk… => wkwk
+https://t.co/39ltjflzll => https t co 39ltjflzll
+
+20
+account name : Isnaini Nur Mutiah
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+21
+account name : ▄︻̷̿┻̿═━一 🌬
+tweet :
+@ustadtengkuzul Non Cebong
+
+Stemmed words :
+@ustadtengkuzul => ustadtengkuzul
+non => non
+cebong => cebong
+
+22
+account name : ⚘Idjah🦋
+tweet :
+RT @NikenSabila_: @Oetaryo7 @Sihite_27_09_89 @MahesaTiwi @KarinaArdiana @Lidabasah @echaluceria @Candraasmara85 @V_Stone_Kardol @Biawak_Bua…
+
+Stemmed words :
+rt => rt
+@nikensabila_: => nikensabila
+@oetaryo7 => oetaryo7
+@sihite_27_09_89 => sihite 27 09 89
+@mahesatiwi => mahesatiwi
+@karinaardiana => karinaardiana
+@lidabasah => lidabasah
+@echaluceria => echaluceria
+@candraasmara85 => candraasmara85
+@v_stone_kardol => v stone kardol
+@biawak_bua… => biawak bua
+
+23
+account name : thirdy
+tweet :
+Aside pa nga gusto ko mag davao mag gensan pd unta ko kay wala lang ganahan kos akng mga ante ddtoa hahaha
+
+Stemmed words :
+aside => aside
+pa => pa
+nga => nga
+gusto => gusto
+ko => ko
+mag => mag
+davao => davao
+mag => mag
+gensan => gensan
+pd => pd
+unta => unta
+ko => ko
+kay => kay
+wala => wala
+lang => lang
+ganahan => ganahan
+kos => kos
+akng => akng
+mga => mga
+ante => ante
+ddtoa => ddtoa
+hahaha => hahaha
+
+24
+account name : ladsah
+tweet :
+RT @laskar_minang: Kenapa Beliau ga membalas serangan Jae tt tanah HGU??
+
+Saksikan video ini...👇
+
+Cebong🐸 ga bakalan ngerti,  otaknya kan d…
+
+Stemmed words :
+rt => rt
+@laskar_minang: => laskar mang
+kenapa => kenapa
+beliau => beliau
+ga => ga
+membalas => balas
+serangan => serang
+jae => jae
+tt => tt
+tanah => tanah
+hgu??
+
+saksikan => hgu saksi
+video => video
+ini...👇
+
+cebong🐸 => ini cebong
+ga => ga
+bakalan => bakal
+ngerti, => ngerti
+ => 
+otaknya => otak
+kan => kan
+d… => d
+
+25
+account name : 🌻
+tweet :
+Mutaas na unta ko bai
+
+Stemmed words :
+mutaas => mutaas
+na => na
+unta => unta
+ko => ko
+bai => bai
+
+26
+account name : Feby Fitri Handayani
+tweet :
+RT @MISSARAP: mas buaya dalam hati
+
+"gue diem aja deh anjing perasaan" https://t.co/CdXWOMAwry
+
+Stemmed words :
+rt => rt
+@missarap: => missarap
+mas => mas
+buaya => buaya
+dalam => dalam
+hati
+
+"gue => hati gue
+diem => diem
+aja => aja
+deh => deh
+anjing => anjing
+perasaan" => asa
+https://t.co/cdxwomawry => https t co cdxwomawry
+
+27
+account name : Mhmmd Fauzan A
+tweet :
+RT @bukanbastiancjr: Instagram : tempat pamer
+Twitter : tempat bacot
+Aku : tempat untukmu bersandar :')
+
+Stemmed words :
+rt => rt
+@bukanbastiancjr: => bukanbastiancjr
+instagram => instagram
+: => 
+tempat => tempat
+pamer
+twitter => pamer twitter
+: => 
+tempat => tempat
+bacot
+aku => bacot aku
+: => 
+tempat => tempat
+untukmu => untuk
+bersandar => sandar
+:') => 
+
+28
+account name : Maria Sekarningrum
+tweet :
+RT @fajarnugros: Maap ada yg tau ngga ini endingnya ngomong apaan? Kayaknya bagus nih, menjelaskan asal usul Kyai Maruf Amin.. 
+
+Saya lagi…
+
+Stemmed words :
+rt => rt
+@fajarnugros: => fajarnugros
+maap => maap
+ada => ada
+yg => yg
+tau => tau
+ngga => ngga
+ini => ini
+endingnya => endingnya
+ngomong => ngomong
+apaan? => apa
+kayaknya => kayak
+bagus => bagus
+nih, => nih
+menjelaskan => jelas
+asal => asal
+usul => usul
+kyai => kyai
+maruf => maruf
+amin.. => amin
+
+
+saya => saya
+lagi… => lagi
+
+29
+account name : naeli
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+30
+account name : Reynaldi Girsang
+tweet :
+@desyyulina Wkwkwkwkwkwkw bangke!
+
+Stemmed words :
+@desyyulina => desyyulina
+wkwkwkwkwkwkw => wkwkwkwkwkwkw
+bangke! => bangke
+
+31
+account name : Enunciating Nas
+tweet :
+Kepala babi betol beli tepung saja dah hilang not RM50. Kena ganti cocaine la nampak gaya ni. Letak sikit, rasa lebih, menang membeli.
+
+Stemmed words :
+kepala => kepala
+babi => babi
+betol => betol
+beli => beli
+tepung => tepung
+saja => saja
+dah => dah
+hilang => hilang
+not => not
+rm50. => rm50
+kena => kena
+ganti => ganti
+cocaine => cocaine
+la => la
+nampak => nampak
+gaya => gaya
+ni. => ni
+letak => letak
+sikit, => sikit
+rasa => rasa
+lebih, => lebih
+menang => menang
+membeli. => beli
+
+32
+account name : MakDemplon
+tweet :
+RT @KampretSuwe: Awas kampret teriak kriminalisasi...  Udah ketangkep basah woiiiii #02Nyabu https://t.co/aWSSB5Or1p
+
+Stemmed words :
+rt => rt
+@kampretsuwe: => kampretsuwe
+awas => awas
+kampret => kampret
+teriak => teriak
+kriminalisasi... => kriminalisasi
+ => 
+udah => udah
+ketangkep => ketangkep
+basah => basah
+woiiiii => woiiiii
+#02nyabu => 02nyabu
+https://t.co/awssb5or1p => https t co awssb5or1p
+
+33
+account name : M Yusuf Ïqbal
+tweet :
+@gilangputraP Bacot bngst
+
+Stemmed words :
+@gilangputrap => gilangputrap
+bacot => bacot
+bngst => bngst
+
+34
+account name : riska
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+35
+account name : ZODIAKAMU
+tweet :
+Ini salah @jokowi. Knp polisi melakukan penggerebekan saat bulan kampanye. Ini kriminalisasi politisi 02. Ini polis… https://t.co/JGFTUoDlsu
+
+Stemmed words :
+ini => ini
+salah => salah
+@jokowi. => jokowi
+knp => knp
+polisi => polisi
+melakukan => laku
+penggerebekan => gerebek
+saat => saat
+bulan => bulan
+kampanye. => kampanye
+ini => ini
+kriminalisasi => kriminalisasi
+politisi => politis
+02. => 02
+ini => ini
+polis… => polis
+https://t.co/jgftuodlsu => https t co jgftuodlsu
+
+36
+account name : IntanKusuma
+tweet :
+RT @MISSARAP: mas buaya dalam hati
+
+"gue diem aja deh anjing perasaan" https://t.co/CdXWOMAwry
+
+Stemmed words :
+rt => rt
+@missarap: => missarap
+mas => mas
+buaya => buaya
+dalam => dalam
+hati
+
+"gue => hati gue
+diem => diem
+aja => aja
+deh => deh
+anjing => anjing
+perasaan" => asa
+https://t.co/cdxwomawry => https t co cdxwomawry
+
+37
+account name : Link 💯 #01JM+88
+tweet :
+@hidayat_ruby @ariantobulolo Kelas kampret hoax  🤣🤣🤣
+
+Stemmed words :
+@hidayat_ruby => hidayat ruby
+@ariantobulolo => ariantobulolo
+kelas => kelas
+kampret => kampret
+hoax => hoax
+ => 
+🤣🤣🤣 => 
+
+38
+account name : f. handono
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+39
+account name : ㅤdey💤
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+40
+account name : anas nasrulloh
+tweet :
+@vikyadrian_ Sia follback atuh goblok siga k batur wae
+😡
+
+Stemmed words :
+@vikyadrian_ => vikyadrian
+sia => sia
+follback => follback
+atuh => atuh
+goblok => goblok
+siga => siga
+k => k
+batur => batur
+wae
+😡 => wae
+
+41
+account name : iby
+tweet :
+Eh,mas keturunan bule ya? | enggak mas. heheh kenapa? ganteng ya? | bukan . giginya pirang | kampret
+
+Stemmed words :
+eh,mas => eh mas
+keturunan => turun
+bule => bule
+ya? => ya
+| => 
+enggak => enggak
+mas. => mas
+heheh => heheh
+kenapa? => kenapa
+ganteng => ganteng
+ya? => ya
+| => 
+bukan => bukan
+. => 
+giginya => gigi
+pirang => pirang
+| => 
+kampret => kampret
+
+42
+account name : capres prabocor atau non prabocor ??
+tweet :
+@kodobong @Greckgo @AnnaSuezann Tadi omong "kata" sekarang jd "perbuatan"... Hihihi kampret taik tukang ngeles.... Wkwkwkwk
+
+Stemmed words :
+@kodobong => kodobong
+@greckgo => greckgo
+@annasuezann => annasuezann
+tadi => tadi
+omong => omong
+"kata" => kata
+sekarang => sekarang
+jd => jd
+"perbuatan"... => buat
+hihihi => hihihi
+kampret => kampret
+taik => taik
+tukang => tukang
+ngeles.... => ngeles
+wkwkwkwk => wkwkwkwk
+
+43
+account name : ujinie
+tweet :
+RT @goddesTOP: @askmenfess bingungnya maudy : duh s2 harvard apa stanford yaa?
+
+bingungnya gue : anjing gue kuliah dimana bangsaaaat. snm k…
+
+Stemmed words :
+rt => rt
+@goddestop: => goddestop
+@askmenfess => askmenfess
+bingungnya => bingung
+maudy => maudy
+: => 
+duh => duh
+s2 => s2
+harvard => harvard
+apa => apa
+stanford => stanford
+yaa?
+
+bingungnya => yaa bingung
+gue => gue
+: => 
+anjing => anjing
+gue => gue
+kuliah => kuliah
+dimana => mana
+bangsaaaat. => bangsaaaat
+snm => snm
+k… => k
+
+44
+account name : Ray Asakura
+tweet :
+RT @NasirPasir: Baru tahu cerita Misteri Dilaila copy cerita Vanishing Act ni. Cuma dia tukar Anjing jadi Kucing je weh! 🤣
+
+Yang kantoi kan…
+
+Stemmed words :
+rt => rt
+@nasirpasir: => nasirpasir
+baru => baru
+tahu => tahu
+cerita => cerita
+misteri => misteri
+dilaila => dilaila
+copy => copy
+cerita => cerita
+vanishing => vanishing
+act => act
+ni. => ni
+cuma => cuma
+dia => dia
+tukar => tukar
+anjing => anjing
+jadi => jadi
+kucing => kucing
+je => je
+weh! => weh
+🤣
+
+yang => yang
+kantoi => kanto
+kan… => kan
+
+45
+account name : Kasmarandanu, A. M.
+tweet :
+Pantes klo ngetweet ngaco dan bacot doang, lagi sakau ternyata. https://t.co/iVTuA3mTKK
+
+Stemmed words :
+pantes => pantes
+klo => klo
+ngetweet => ngetweet
+ngaco => ngaco
+dan => dan
+bacot => bacot
+doang, => doang
+lagi => lagi
+sakau => sakau
+ternyata. => nyata
+https://t.co/ivtua3mtkk => https t co ivtua3mtkk
+
+46
+account name : Mas Ben!
+tweet :
+Anjing-anjingan sama dosen di kelas.
+
+Stemmed words :
+anjing-anjingan => anjing
+sama => sama
+dosen => dosen
+di => di
+kelas. => kelas
+
+47
+account name : ْ
+tweet :
+RT @MISSARAP: mas buaya dalam hati
+
+"gue diem aja deh anjing perasaan" https://t.co/CdXWOMAwry
+
+Stemmed words :
+rt => rt
+@missarap: => missarap
+mas => mas
+buaya => buaya
+dalam => dalam
+hati
+
+"gue => hati gue
+diem => diem
+aja => aja
+deh => deh
+anjing => anjing
+perasaan" => asa
+https://t.co/cdxwomawry => https t co cdxwomawry
+
+48
+account name : 🐨[📚s/h]📌
+tweet :
+KAMPRET MRINDING GUA😭
+
+Stemmed words :
+kampret => kampret
+mrinding => mrinding
+gua😭 => gua
+
+49
+account name : Bayu Sagara
+tweet :
+@BNgajeng @Jendralserdadu @ustadtengkuzul @Dkyudistira @jokowi ahahaha ... CEBONG GOBLOK kehabisan dalil buat banta… https://t.co/6isjsvEDlq
+
+Stemmed words :
+@bngajeng => bngajeng
+@jendralserdadu => jendralserdadu
+@ustadtengkuzul => ustadtengkuzul
+@dkyudistira => dkyudistira
+@jokowi => jokowi
+ahahaha => ahahaha
+... => 
+cebong => cebong
+goblok => goblok
+kehabisan => habis
+dalil => dalil
+buat => buat
+banta… => banta
+https://t.co/6isjsvedlq => https t co 6isjsvedlq
+
+50
+account name : vhope au📌
+tweet :
+YEONJUN KAMPRET SUARANYA ALSKSKJZSJ MAU NANGIS
+
+Stemmed words :
+yeonjun => yeonjun
+kampret => kampret
+suaranya => suara
+alskskjzsj => alskskjzsj
+mau => mau
+nangis => nang
+
+51
+account name : Huda
+tweet :
+RT @BanyuSadewa: @juriglagu Lah aku juga punya. Tapi ya beli ini bukan karena goblok, tapi sengaja dipake buat naroh simpen kabel-kabel cha…
+
+Stemmed words :
+rt => rt
+@banyusadewa: => banyusadewa
+@juriglagu => juriglagu
+lah => lah
+aku => aku
+juga => juga
+punya. => punya
+tapi => tapi
+ya => ya
+beli => beli
+ini => ini
+bukan => bukan
+karena => karena
+goblok, => goblok
+tapi => tapi
+sengaja => sengaja
+dipake => dipake
+buat => buat
+naroh => naroh
+simpen => simpen
+kabel-kabel => kabel
+cha… => cha
+
+52
+account name : julia
+tweet :
+najis anjing what did i just read wkwkwkwkwkwkwkwkwkwkwkwk https://t.co/RyPgq1okpF
+
+Stemmed words :
+najis => najis
+anjing => anjing
+what => what
+did => did
+i => i
+just => just
+read => read
+wkwkwkwkwkwkwkwkwkwkwkwk => wkwkwkwkwkwkwkwkwkwkwkwk
+https://t.co/rypgq1okpf => https t co rypgq1okpf
+
+53
+account name : Adi Setyo
+tweet :
+Sebentar lagi,  yang suka menyerang NU,  Kyai2nya,  pengurus2nya,  menghina dan memusuhi banser dst,  bakalan dibuk… https://t.co/yuzbp9HTR6
+
+Stemmed words :
+sebentar => sebentar
+lagi, => lagi
+ => 
+yang => yang
+suka => suka
+menyerang => serang
+nu, => nu
+ => 
+kyai2nya, => kyai2nya
+ => 
+pengurus2nya, => pengurus2nya
+ => 
+menghina => hina
+dan => dan
+memusuhi => musuh
+banser => banser
+dst, => dst
+ => 
+bakalan => bakal
+dibuk… => buk
+https://t.co/yuzbp9htr6 => https t co yuzbp9htr6
+
+54
+account name : vivi
+tweet :
+Apa babi upk ni suruh duduk kat level 1
+
+Stemmed words :
+apa => apa
+babi => babi
+upk => upk
+ni => ni
+suruh => suruh
+duduk => duduk
+kat => kat
+level => level
+1 => 1
+
+55
+account name : Tika Destria
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+56
+account name : Afer
+tweet :
+RT @bukanbastiancjr: Instagram : tempat pamer
+Twitter : tempat bacot
+Aku : tempat untukmu bersandar :')
+
+Stemmed words :
+rt => rt
+@bukanbastiancjr: => bukanbastiancjr
+instagram => instagram
+: => 
+tempat => tempat
+pamer
+twitter => pamer twitter
+: => 
+tempat => tempat
+bacot
+aku => bacot aku
+: => 
+tempat => tempat
+untukmu => untuk
+bersandar => sandar
+:') => 
+
+57
+account name : Angel Ju Hyung
+tweet :
+@GagakNew @RizmaWidiono @TolakBigotRI @qitmr @ApriliaLin Anjir ngpain juga dikasi mcd si kampret itu
+
+Stemmed words :
+@gagaknew => gagaknew
+@rizmawidiono => rizmawidiono
+@tolakbigotri => tolakbigotri
+@qitmr => qitmr
+@aprilialin => aprilialin
+anjir => anjir
+ngpain => ngpain
+juga => juga
+dikasi => kasi
+mcd => mcd
+si => si
+kampret => kampret
+itu => itu
+
+58
+account name : kawaiizzat
+tweet :
+@jijiazman sameee omfg strsss gila babi
+
+Stemmed words :
+@jijiazman => jijiazman
+sameee => sameee
+omfg => omfg
+strsss => strsss
+gila => gila
+babi => babi
+
+59
+account name : Faisal Amin
+tweet :
+@misbahularfn @causanaftaley Iyo wong e goblok goblok
+
+Stemmed words :
+@misbahularfn => misbahularfn
+@causanaftaley => causanaftaley
+iyo => iyo
+wong => wong
+e => e
+goblok => goblok
+goblok => goblok
+
+60
+account name : Pemburu Kampret
+tweet :
+Yahhh ketahuan deh🙈😹 
+
+https://t.co/WdCuqbUQcK 
+
+#andiarief #AndiAriefNarkoba #andiariefketangkepnyabu… https://t.co/0HZ7rfluIb
+
+Stemmed words :
+yahhh => yahhh
+ketahuan => tahu
+deh🙈😹 => deh
+
+
+https://t.co/wdcuqbuqck => https t co wdcuqbuqck
+
+
+#andiarief => andiarief
+#andiariefnarkoba => andiariefnarkoba
+#andiariefketangkepnyabu… => andiariefketangkepnyabu
+https://t.co/0hz7rfluib => https t co 0hz7rfluib
+
+61
+account name : dani
+tweet :
+RT @singtiasu: Tolong bedakan salah jurusan sama emang kamu goblok.
+
+Stemmed words :
+rt => rt
+@singtiasu: => singtiasu
+tolong => tolong
+bedakan => beda
+salah => salah
+jurusan => jurus
+sama => sama
+emang => emang
+kamu => kamu
+goblok. => goblok
+
+62
+account name : JAENAB
+tweet :
+Goblok!
+
+Stemmed words :
+goblok! => goblok
+
+63
+account name : Candra Asmara
+tweet :
+RT @MataRakyatJaka1: Bagus sekali apa yg disampaikan Gus Muwafiq ini👍👍
+
+Sahabat simak deh yaa🙏
+lalu share sekuatnya ke seantero Kampret...!…
+
+Stemmed words :
+rt => rt
+@matarakyatjaka1: => matarakyatjaka1
+bagus => bagus
+sekali => sekali
+apa => apa
+yg => yg
+disampaikan => sampai
+gus => gus
+muwafiq => muwafiq
+ini👍👍
+
+sahabat => ini sahabat
+simak => simak
+deh => deh
+yaa🙏
+lalu => yaa lalu
+share => share
+sekuatnya => kuat
+ke => ke
+seantero => antero
+kampret...!… => kampret
+
+64
+account name : Paulus Saja
+tweet :
+RT @TheArieAir: NARKOBA kumpul disana
+ATHEIS juga disana
+LGBT disana
+TERORIS dan RADIKAL disana
+
+TIKUS KECOAK KAMPRET semua disana
+
+mau kal…
+
+Stemmed words :
+rt => rt
+@thearieair: => thearieair
+narkoba => narkoba
+kumpul => kumpul
+disana
+atheis => sana atheis
+juga => juga
+disana
+lgbt => sana lgbt
+disana
+teroris => sana teroris
+dan => dan
+radikal => radikal
+disana
+
+tikus => sana tikus
+kecoak => kecoak
+kampret => kampret
+semua => semua
+disana
+
+mau => sana mau
+kal… => kal
+
+65
+account name : Islam Cerah
+tweet :
+RT @IsekaiHero: Saat para cebong mulai menyerang twit viral dan temlen gue.. https://t.co/yWfKFb0BrZ
+
+Stemmed words :
+rt => rt
+@isekaihero: => isekaihero
+saat => saat
+para => para
+cebong => cebong
+mulai => mulai
+menyerang => serang
+twit => twit
+viral => viral
+dan => dan
+temlen => temlen
+gue.. => gue
+https://t.co/ywfkfb0brz => https t co ywfkfb0brz
+
+66
+account name : ćel
+tweet :
+@BOT_MARAH Babi
+
+Stemmed words :
+@bot_marah => bot marah
+babi => babi
+
+67
+account name : ًqin ; #CROWN
+tweet :
+SOOBIN LUCU BANGET ANJING KESEL GUE
+
+Stemmed words :
+soobin => soobin
+lucu => lucu
+banget => banget
+anjing => anjing
+kesel => kesel
+gue => gue
+
+68
+account name : ..
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+69
+account name : Yoril вxɴᴰᴺᵀˢᵏʸ#AATETEHSQ
+tweet :
+@oxgwoo @junqone Mending anjing dah dari pada babi wkwk
+
+Stemmed words :
+@oxgwoo => oxgwoo
+@junqone => junqone
+mending => mending
+anjing => anjing
+dah => dah
+dari => dari
+pada => pada
+babi => babi
+wkwk => wkwk
+
+70
+account name : kiko
+tweet :
+RT @akoposiron: Kay kung mu chat paka nako, di unta ka maka feel unsay meaning sa "late reply" nu hay nakooo hakahaahaakakaka
+
+Stemmed words :
+rt => rt
+@akoposiron: => akoposiron
+kay => kay
+kung => kung
+mu => mu
+chat => chat
+paka => paka
+nako, => nako
+di => di
+unta => unta
+ka => ka
+maka => maka
+feel => feel
+unsay => unsay
+meaning => meaning
+sa => sa
+"late => late
+reply" => reply
+nu => nu
+hay => hay
+nakooo => nakooo
+hakahaahaakakaka => hakahaahaakakaka
+
+71
+account name : Aurora TOTO
+tweet :
+Result Australia Super Ball Senin, 04 Maret 2019
+Australia Super Ball ( Setiap Hari ) : Tutup 15.30 / Result 16.00… https://t.co/llWQ2ILm23
+
+Stemmed words :
+result => result
+australia => australia
+super => super
+ball => ball
+senin, => senin
+04 => 04
+maret => maret
+2019
+australia => 2019 australia
+super => super
+ball => ball
+( => 
+setiap => tiap
+hari => hari
+) => 
+: => 
+tutup => tutup
+15.30 => 15 30
+/ => 
+result => result
+16.00… => 16 00
+https://t.co/llwq2ilm23 => https t co llwq2ilm23
+
+72
+account name : 율 🍑🍒
+tweet :
+Bangke betul ni brand ya, S3 marketing :")))
+
+Stemmed words :
+bangke => bangke
+betul => betul
+ni => ni
+brand => brand
+ya, => ya
+s3 => s3
+marketing => marketing
+:"))) => 
+
+73
+account name : Niken Sabila
+tweet :
+@Oetaryo7 @Sihite_27_09_89 @MahesaTiwi @KarinaArdiana @Lidabasah @echaluceria @Candraasmara85 @V_Stone_Kardol… https://t.co/z3Tp672ixJ
+
+Stemmed words :
+@oetaryo7 => oetaryo7
+@sihite_27_09_89 => sihite 27 09 89
+@mahesatiwi => mahesatiwi
+@karinaardiana => karinaardiana
+@lidabasah => lidabasah
+@echaluceria => echaluceria
+@candraasmara85 => candraasmara85
+@v_stone_kardol… => v stone kardol
+https://t.co/z3tp672ixj => https t co z3tp672ixj
+
+74
+account name : Chan
+tweet :
+@ryuewjin @CH0IJIZU Duo kampret.
+
+Stemmed words :
+@ryuewjin => ryuewjin
+@ch0ijizu => ch0ijizu
+duo => duo
+kampret. => kampret
+
+75
+account name : #2019Prabowo &Sandy
+tweet :
+@kangdede78 De jangan Picik
+Rombongan Luh , Banyak
+Yg ketangkep Nyabu
+Malah Ada ,Yg bandar besar
+Nih luh baca 
+Cebo… https://t.co/NNOIjPcgET
+
+Stemmed words :
+@kangdede78 => kangdede78
+de => de
+jangan => jangan
+picik
+rombongan => picik rombong
+luh => luh
+, => 
+banyak
+yg => banyak yg
+ketangkep => ketangkep
+nyabu
+malah => nyabu malah
+ada => ada
+,yg => yg
+bandar => bandar
+besar
+nih => besar nih
+luh => luh
+baca => baca
+
+cebo… => cebo
+https://t.co/nnoijpcget => https t co nnoijpcget
+
+76
+account name : pia 📌GA CEK PINNED
+tweet :
+RT @FiersaBesari: “Apaan sih anjing?” is my natural reaction
+
+Stemmed words :
+rt => rt
+@fiersabesari: => fiersabesari
+“apaan => apa
+sih => sih
+anjing?” => anjing
+is => is
+my => my
+natural => natural
+reaction => reaction
+
+77
+account name : معصوم بیکار(سابق)
+tweet :
+@babi_hashton @mmajid0m3 کدوم عکس
+
+Stemmed words :
+@babi_hashton => babi hashton
+@mmajid0m3 => mmajid0m3
+کدوم => 
+عکس => 
+
+78
+account name : ghea
+tweet :
+RT @MISSARAP: mas buaya dalam hati
+
+"gue diem aja deh anjing perasaan" https://t.co/CdXWOMAwry
+
+Stemmed words :
+rt => rt
+@missarap: => missarap
+mas => mas
+buaya => buaya
+dalam => dalam
+hati
+
+"gue => hati gue
+diem => diem
+aja => aja
+deh => deh
+anjing => anjing
+perasaan" => asa
+https://t.co/cdxwomawry => https t co cdxwomawry
+
+79
+account name : Untukapa
+tweet :
+RT @goddesTOP: @askmenfess bingungnya maudy : duh s2 harvard apa stanford yaa?
+
+bingungnya gue : anjing gue kuliah dimana bangsaaaat. snm k…
+
+Stemmed words :
+rt => rt
+@goddestop: => goddestop
+@askmenfess => askmenfess
+bingungnya => bingung
+maudy => maudy
+: => 
+duh => duh
+s2 => s2
+harvard => harvard
+apa => apa
+stanford => stanford
+yaa?
+
+bingungnya => yaa bingung
+gue => gue
+: => 
+anjing => anjing
+gue => gue
+kuliah => kuliah
+dimana => mana
+bangsaaaat. => bangsaaaat
+snm => snm
+k… => k
+
+80
+account name : Luana
+tweet :
+@HutabaratPalti @NikenSabila_ @NaneDianti @teenmoms2 @echadinda1 @Yovita_Gurning Masi banyak deh gerombolan kampret… https://t.co/GEKRAwaIso
+
+Stemmed words :
+@hutabaratpalti => hutabaratpalti
+@nikensabila_ => nikensabila
+@nanedianti => nanedianti
+@teenmoms2 => teenmoms2
+@echadinda1 => echadinda1
+@yovita_gurning => yovita gurning
+masi => mas
+banyak => banyak
+deh => deh
+gerombolan => gerombol
+kampret… => kampret
+https://t.co/gekrawaiso => https t co gekrawaiso
+
+81
+account name : Dinda NR
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+82
+account name : Lutfi Ravlina
+tweet :
+RT @dsuperboy: Kalau anda tidak suka satu film, buku, musik, sadarilah Anda bukan target pasar yang dituju. Tidak usah banyak bacot. Hidup…
+
+Stemmed words :
+rt => rt
+@dsuperboy: => dsuperboy
+kalau => kalau
+anda => anda
+tidak => tidak
+suka => suka
+satu => satu
+film, => film
+buku, => buku
+musik, => musik
+sadarilah => sadar
+anda => anda
+bukan => bukan
+target => target
+pasar => pasar
+yang => yang
+dituju. => tuju
+tidak => tidak
+usah => usah
+banyak => banyak
+bacot. => bacot
+hidup… => hidup
+
+83
+account name : Reeeen.
+tweet :
+RT @MISSARAP: mas buaya dalam hati
+
+"gue diem aja deh anjing perasaan" https://t.co/CdXWOMAwry
+
+Stemmed words :
+rt => rt
+@missarap: => missarap
+mas => mas
+buaya => buaya
+dalam => dalam
+hati
+
+"gue => hati gue
+diem => diem
+aja => aja
+deh => deh
+anjing => anjing
+perasaan" => asa
+https://t.co/cdxwomawry => https t co cdxwomawry
+
+84
+account name : 🙃🙃🙃
+tweet :
+Lol g na unta 😂
+
+Stemmed words :
+lol => lol
+g => g
+na => na
+unta => unta
+😂 => 
+
+85
+account name : Belinda Alodia W.
+tweet :
+RT @singtiasu: Tolong bedakan salah jurusan sama emang kamu goblok.
+
+Stemmed words :
+rt => rt
+@singtiasu: => singtiasu
+tolong => tolong
+bedakan => beda
+salah => salah
+jurusan => jurus
+sama => sama
+emang => emang
+kamu => kamu
+goblok. => goblok
+
+86
+account name : Mieraa
+tweet :
+RT @inaanr_: gurau rogol rogol tak kelakar ye anak babi walapun kita rapat
+
+Stemmed words :
+rt => rt
+@inaanr_: => inaanr
+gurau => gurau
+rogol => rogol
+rogol => rogol
+tak => tak
+kelakar => kelakar
+ye => ye
+anak => anak
+babi => babi
+walapun => walapun
+kita => kita
+rapat => rapat
+
+87
+account name : wijaya
+tweet :
+@ApriliaLin Pake2 sendiri dibilang musibah...goblok ga ketulungan.
+
+Stemmed words :
+@aprilialin => aprilialin
+pake2 => pake2
+sendiri => sendiri
+dibilang => bilang
+musibah...goblok => musibah goblok
+ga => ga
+ketulungan. => ketulungan
+
+88
+account name : Wajah Sebenar Anwar
+tweet :
+RT @AnwarWajah: Tak sudah sudah @anwaribrahim ni... hang ni memang gila babi nak sangat jadi PM nooh... 
+
+Wei sekarang ni masa kena baiki n…
+
+Stemmed words :
+rt => rt
+@anwarwajah: => anwarwajah
+tak => tak
+sudah => sudah
+sudah => sudah
+@anwaribrahim => anwaribrahim
+ni... => ni
+hang => hang
+ni => ni
+memang => memang
+gila => gila
+babi => babi
+nak => nak
+sangat => sangat
+jadi => jadi
+pm => pm
+nooh... => nooh
+
+
+wei => wei
+sekarang => sekarang
+ni => ni
+masa => masa
+kena => kena
+baiki => baik
+n… => n
+
+89
+account name : Ecky Daniel
+tweet :
+RT @bukanbastiancjr: Instagram : tempat pamer
+Twitter : tempat bacot
+Aku : tempat untukmu bersandar :')
+
+Stemmed words :
+rt => rt
+@bukanbastiancjr: => bukanbastiancjr
+instagram => instagram
+: => 
+tempat => tempat
+pamer
+twitter => pamer twitter
+: => 
+tempat => tempat
+bacot
+aku => bacot aku
+: => 
+tempat => tempat
+untukmu => untuk
+bersandar => sandar
+:') => 
+
+90
+account name : [CALON]ISTERI STEVEN ADAMS
+tweet :
+RT @singtiasu: Tolong bedakan salah jurusan sama emang kamu goblok.
+
+Stemmed words :
+rt => rt
+@singtiasu: => singtiasu
+tolong => tolong
+bedakan => beda
+salah => salah
+jurusan => jurus
+sama => sama
+emang => emang
+kamu => kamu
+goblok. => goblok
+
+91
+account name : @jaeflows ke lock anjrit
+tweet :
+@pipelreceh tApI nYeBeLiN bAnGeT kAmPrEt
+
+Stemmed words :
+@pipelreceh => pipelreceh
+tapi => tapi
+nyebelin => nyebelin
+banget => banget
+kampret => kampret
+
+92
+account name : icha
+tweet :
+RT @moonchildpiy: @askmenfess Kerjaan : TIDUR , GULING2 DI KASUR, BELAJAR MALES2 AN, SCROLL Twitter tiap hari
+
+Cita cita : KEK MAUDY AYUNDA…
+
+Stemmed words :
+rt => rt
+@moonchildpiy: => moonchildpiy
+@askmenfess => askmenfess
+kerjaan => kerja
+: => 
+tidur => tidur
+, => 
+guling2 => guling2
+di => di
+kasur, => kasur
+belajar => ajar
+males2 => males2
+an, => an
+scroll => scroll
+twitter => twitter
+tiap => tiap
+hari
+
+cita => hari cita
+cita => cita
+: => 
+kek => kek
+maudy => maudy
+ayunda… => ayunda
+
+93
+account name : Monica Angelia
+tweet :
+Gak dibandung gak dibekasi gabutnya sama babi memang ya diriku☹️☹️☹️
+
+Stemmed words :
+gak => gak
+dibandung => bandung
+gak => gak
+dibekasi => bekas
+gabutnya => gabutnya
+sama => sama
+babi => babi
+memang => memang
+ya => ya
+diriku☹️☹️☹️ => diri
+
+94
+account name : ʳᵃⁿᵉʸʸ☁
+tweet :
+Winkdeep bikin pusink anjing.
+
+Stemmed words :
+winkdeep => winkdeep
+bikin => bikin
+pusink => pusink
+anjing. => anjing
+
